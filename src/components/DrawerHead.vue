@@ -5,7 +5,8 @@
 <template>
   <h2 class="text-2xl font-bold mb-10 flex items-center gap-5">
     <svg
-      class="rotate-180 hover:-translate-x-1 opacity-30 hover:opacity-100 transition cursor-pointer"
+      class="rotate-180 hover:-translate-x-1 opacity-30 hover:opacity-100 
+      transition cursor-pointer"
       width="16"
       height="14"
       viewBox="0 0 16 14"
